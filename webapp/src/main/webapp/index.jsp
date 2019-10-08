@@ -2,4 +2,3 @@
 <h3> CARLOS AUGUSTO HINCAPIE R. </h3>
 <h3> LUIS ENRIQUE VELASQUEZ GOMEZ. </h3>
 <h2> Universidad de Antioquia.</h2>
-<h2>UDE@</h2>
